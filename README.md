@@ -85,8 +85,6 @@ src/main/resources/
 
 database/
 └── schema.sql
-```
-
 ## Application Screenshots
 
 ### 1. Ticket Dashboard
@@ -100,3 +98,5 @@ database/
 
 ### 4. Ticket Report Export
 ![Ticket Report Export](screenshots/ticket-report.png)
+```
+
