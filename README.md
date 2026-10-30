@@ -85,6 +85,7 @@ src/main/resources/
 
 database/
 └── schema.sql
+
 ## Application Screenshots
 
 ### 1. Ticket Dashboard
@@ -97,6 +98,4 @@ database/
 ![Ticket Status Management](screenshots/ticket-management.png)
 
 ### 4. Ticket Report Export
-![Ticket Report Export](screenshots/ticket-report.png)
-```
-
+![Ticket Report Export](screenshots/ticket-report.png) 
