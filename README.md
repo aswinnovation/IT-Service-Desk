@@ -86,3 +86,17 @@ src/main/resources/
 database/
 └── schema.sql
 ```
+
+## Application Screenshots
+
+### 1. Ticket Dashboard
+![Ticket Dashboard](screenshots/dashboard.png)
+
+### 2. Create Support Ticket
+![Create Support Ticket](screenshots/create-ticket.png)
+
+### 3. Ticket Status Management
+![Ticket Status Management](screenshots/ticket-management.png)
+
+### 4. Ticket Report Export
+![Ticket Report Export](screenshots/ticket-report.png)
